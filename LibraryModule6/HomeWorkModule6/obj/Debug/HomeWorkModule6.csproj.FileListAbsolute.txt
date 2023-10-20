@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\УЧЕБА\CS\LibraryModule6\HomeWorkModule6\bin\Debug\HomeWorkModule6.exe.config
+C:\Users\User\Desktop\УЧЕБА\CS\LibraryModule6\HomeWorkModule6\bin\Debug\HomeWorkModule6.exe
+C:\Users\User\Desktop\УЧЕБА\CS\LibraryModule6\HomeWorkModule6\bin\Debug\HomeWorkModule6.pdb
+C:\Users\User\Desktop\УЧЕБА\CS\LibraryModule6\HomeWorkModule6\bin\Debug\LibraryModule6.dll
+C:\Users\User\Desktop\УЧЕБА\CS\LibraryModule6\HomeWorkModule6\bin\Debug\LibraryModule6.pdb
+C:\Users\User\Desktop\УЧЕБА\CS\LibraryModule6\HomeWorkModule6\obj\Debug\HomeWorkModule6.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\УЧЕБА\CS\LibraryModule6\HomeWorkModule6\obj\Debug\HomeWorkModule6.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\УЧЕБА\CS\LibraryModule6\HomeWorkModule6\obj\Debug\HomeWorkModule6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\УЧЕБА\CS\LibraryModule6\HomeWorkModule6\obj\Debug\HomeWorkModule6.csproj.CopyComplete
+C:\Users\User\Desktop\УЧЕБА\CS\LibraryModule6\HomeWorkModule6\obj\Debug\HomeWorkModule6.exe
+C:\Users\User\Desktop\УЧЕБА\CS\LibraryModule6\HomeWorkModule6\obj\Debug\HomeWorkModule6.pdb
